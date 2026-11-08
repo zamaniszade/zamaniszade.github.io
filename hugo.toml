@@ -1,0 +1,22 @@
+baseURL = "https://zamaniszade.github.io/"
+languageCode = "de"
+defaultContentLanguage = "de"
+title = "Mein Blog"
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Start"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Kategorien"
+    url = "/categories/"
+    weight = 2
+  [[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 3
