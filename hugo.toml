@@ -1,5 +1,5 @@
 baseURL = "https://zamaniszade.github.io/"
-languageCode = "de"
+locale = "de-DE"
 defaultContentLanguage = "de"
 title = "Mein Blog"
 theme = "PaperMod"
